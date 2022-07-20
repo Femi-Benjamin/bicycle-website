@@ -1,0 +1,117 @@
+.parentDiv{
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background-color: #11012C;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    top: 60px;
+}
+
+.cycleband{
+    width: 153px;
+    height: 33px;
+    left: 154px;
+    top: 77px;
+    color: #E4D5FF;
+
+   
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.button1{
+    width: 212px;
+    height: 49px;
+    left: 1168px;
+    top: 66px;
+    color: #E4D5FF;
+    background-color: #2A0072;
+
+  
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+    border-radius: 5px;
+    
+}
+.arrow{
+    width: 33px;
+    height: 33px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.circle1{
+    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
+    width: 100px;
+    height: 100px;
+    left: 990px;
+    top: 137px;
+}
+
+.bicycleride{
+    width: 500px;
+    height: 800px;
+    left: 790px;
+    top: 199px;
+}
+
+.welcome{
+    width: 345px;
+    height: 35px;
+    left: 110px;
+    top: 305px;
+    color: #FFFFFF;
+}
+.buyandsell{
+    width: 534px;
+    height: 28px;
+    left: 110px;
+    top: 362px;
+    color: #E4D5FF;
+}
+
+.button2{
+    width: 212px;
+    height: 49px;
+    left: 110px;
+    top: 518px;
+    padding: 8px 16px;
+    gap: 8px;
+    color: #E4D5FF;
+    background: #2A0072;
+
+    align-items: center;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.arrow2{
+    left: 79.48%;
+    right: 10.42%;
+    top: 28.74%;
+    bottom: 28.74%;
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    left: 243px;
+    top: 626px;
+    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
+}
+
+
+
+
+              

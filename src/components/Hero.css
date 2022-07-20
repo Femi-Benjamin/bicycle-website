@@ -1,0 +1,61 @@
+.HeroDiv{
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background:#11012C ;
+}
+
+.logo1{
+    width: 50px;
+    height: 50px;
+    left: 60px;
+    top: 1080px;
+}
+
+.cycleband1{
+    width: 153px;
+    height: 33px;
+    left: 154px;
+    color:#E4D5FF;
+    top: 1100px;
+
+   
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+}
+.info{
+    width: 701px;
+    height: 363px;
+    left: 369px;
+    top: 1400px;
+    background: #670DFF;
+    border-radius: 50px;
+}
+
+.welcome2{
+    width: 322px;
+    height: 33px;
+    left: 189.5px;
+    top: 100px;
+    color: #FFFFFF;
+
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+}
+.buyandsell2{
+    width: 401px;
+    height: 21px;
+    left: 150px;
+    top: 163px;
+    color: #E4D5FF;
+    
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+}
+.bgbic{
+    background-color: white;
+}
