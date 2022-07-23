@@ -1,63 +1,47 @@
-.parentDiv{
-    width: 1440px;
-    height: 1024px;
-    left: 0px;
-    top: 0px;
-    background-color: #11012C;
-}
 
-.logo{
-    width: 50px;
-    height: 50px;
-    left: 60px;
-    top: 60px;
+.circle1{
+    /* background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
+    width: 100px;
+    height: 100px;
+    left: 990px;
+    top: 137px; */
 }
-
+.circle2{
+    /* width: 100px;
+    height: 100px;
+    left: 243px;
+    top: 626px;
+    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%); */
+}
 .cycleband{
-    width: 153px;
+    /* width: 153px;
     height: 33px;
     left: 154px;
     top: 77px;
-    color: #E4D5FF;
-
-   
+    color: #E4D5FF; DONE */
     font-weight: 700;
     font-size: 28px;
     line-height: 33px;
 }
-
 .button1{
-    width: 212px;
+    /* width: 212px;
     height: 49px;
     left: 1168px;
     top: 66px;
     color: #E4D5FF;
-    background-color: #2A0072;
-
-  
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    background-color: #2A0072; */
     padding: 8px 16px;
     gap: 8px;
     border-radius: 5px;
+
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+   
     
 }
-.arrow{
-    width: 33px;
-    height: 33px;
-    flex: none;
-    order: 1;
-    flex-grow: 0;
-}
-
-.circle1{
-    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
-    width: 100px;
-    height: 100px;
-    left: 990px;
-    top: 137px;
-}
+/* not responding */
+.forward{}
 
 .bicycleride{
     width: 500px;
@@ -102,13 +86,6 @@
     right: 10.42%;
     top: 28.74%;
     bottom: 28.74%;
-}
-.circle2{
-    width: 100px;
-    height: 100px;
-    left: 243px;
-    top: 626px;
-    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
 }
 
 
