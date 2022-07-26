@@ -1,7 +1,6 @@
 import React from 'react'
 import conceptbicycle from "../conceptbicycle/image1.png"
 
-
 export default function bicycle() {
   return (
     <div>
