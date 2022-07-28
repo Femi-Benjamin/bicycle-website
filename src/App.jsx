@@ -14,7 +14,7 @@ export default function App() {
     <div className='flex absolute top-[1545px]'>
     <div className={`bg-[#2A0072]`}>
     <Body
-      Product="Racing Bikes"
+      Product="Road Bikes"
       Amount="$800 - $3,000"
       Affordable="Cheap"
       Speedometer="Speed"
@@ -23,7 +23,7 @@ export default function App() {
     </div>
     <div className={`bg-[#670DFF]`}>
     <Body
-      Product="Hiking Bikes"
+      Product="Mountain Bikes"
       Amount="$800 - $3,000"
       Affordable="Affordable"
       Speedometer="Slow"
@@ -41,7 +41,7 @@ export default function App() {
     </div>
     <div className={`bg-[#2A0072]`}>
     <Body
-      Product="Gear Bikes"
+      Product="Kid Bikes"
       Amount="$1000 - $3,000"
       Affordable="Affordable"
       Speedometer="Speed"

@@ -1,35 +1,24 @@
 
 .circle1{
-    /* background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
+    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
     width: 100px;
     height: 100px;
     left: 990px;
-    top: 137px; */
+    top: 137px;
 }
 .circle2{
-    /* width: 100px;
+    width: 100px;
     height: 100px;
     left: 243px;
     top: 626px;
-    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%); */
+    background: linear-gradient(180deg, 0%, rgba(66, 173, 226, 0) 100%);
 }
 .cycleband{
-    /* width: 153px;
-    height: 33px;
-    left: 154px;
-    top: 77px;
-    color: #E4D5FF; DONE */
     font-weight: 700;
     font-size: 28px;
     line-height: 33px;
 }
 .button1{
-    /* width: 212px;
-    height: 49px;
-    left: 1168px;
-    top: 66px;
-    color: #E4D5FF;
-    background-color: #2A0072; */
     padding: 8px 16px;
     gap: 8px;
     border-radius: 5px;
