@@ -12,6 +12,8 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
+    require('flowbite/plugin'),
+    "./node_modules/flowbite/**/*.js"
   ],
   theme: {
     extend: {},
